@@ -1,22 +1,18 @@
-# Hi there 👋
+# Shengzhe Yao
 
-I'm Shengzhe, a seasoned software engineer with a passion for creating innovative
-and efficient platforms. My interests include AI, Distributed Systems,
-and open-source projects.
-Always eager to learn new technologies and improve my skills.
+Software engineer passionate about AI, Distributed Systems, and open source.
 
-🚀 __Current Focus__: Building the best-in-class Generative AI developer platform.
+🚀 __Current Focus__
+- Building AI agents to shape Colab into an AI-native notebook.
+- Researching multi-agent systems, agent memory, and reasoning.
 
+🌱 __Learning & Research__
+- Deep Learning and Generative AI.
+- LLMs, AI agents, and Computer Vision.
 
-🌱 __Currently Learning__
-- Deep Learning and Generative AI applications.
-- Research papers around large language models, AI agents, Computer Visions.
-
-
-👯 __Interested in collaborating on__
+👯 __Open to Collaboration__
 - Open Source projects.
-- Innovative tech ideas or startups.
-- Educational content for developers.
+- Innovative tech ideas & startups.
+- Developer educational content.
 
-Feel free to check out my repositories and don't hesitate to connect if you
-find anything interesting!
+Feel free to explore my repositories and connect!
